@@ -72,3 +72,5 @@ python3 app.py
 ```
 
 ## 效果
+https://github.com/llody55/flask_kube_event/blob/main/image/README/1698287701018.png
+https://github.com/llody55/flask_kube_event/blob/main/image/README/1698287757362.png
