@@ -1,0 +1,2 @@
+# flask_kube_event
+python连接kubernetes获取Warning事件并通过webhook向企业微信机器人推送消息
